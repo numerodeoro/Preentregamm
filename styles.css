@@ -71,7 +71,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 20px 80px;
-    background-color: #E3E6f3;
+    background-color: #efbc9a;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     /* El header queda fijo en la parte superior al hacer scroll */
     z-index: 999;
