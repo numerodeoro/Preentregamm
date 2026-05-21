@@ -22,18 +22,18 @@ html {
 h1 {
     font-size: 50px;
     line-height: 64px;
-    color: #222;
+    color: #082457;
 }
 
 h2 {
     font-size: 46px;
     line-height: 54px;
-    color: #222;
+    color: #082457;
 }
 
 h4 {
     font-size: 20px;
-    color: #222;
+    color: #082457;
 }
 
 h6 {
@@ -172,39 +172,39 @@ body {
 .portada {
     background-image: url('img/portada.jpg');
     display: flex;
-    align-items: center;
-    justify-content: flex-end;
+    align-items: flex-start;
+    justify-content: flex-start;
     height: 95vh;
     width: 100%;
     background-size: cover;
     background-position: top 5% center;
-    padding: 0 80px;
+    padding: 40px 80px 0px 80px;
     margin-bottom: 40px;
 }
 
 .portada .portada-content {
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
-    text-align: right;
+    align-items: flex-start;
+    text-align: left;
     z-index: 1;
 }
 
 .portada .portada-content h4 {
-    color: #088178;
+    color: #cd8c14;
     margin-bottom: 10px;
     font-size: 1rem;
 }
 
 .portada .portada-content h2 {
-    color: #222;
+    color: #084157;
     font-size: 2.5rem;
     margin-bottom: 10px;
 }
 
 .portada .portada-content h1 {
-    color: #088178;
+    color: #e9651eda;
     font-size: 3rem;
     margin-bottom: 15px;
 }
@@ -215,8 +215,9 @@ body {
 }
 
 .portada .portada-content button {
-    background-color: #088178;
+    background-color: #f6a67bda;
     color: white;
+    margin-top: 20px;
     border: none;
     padding: 12px 25px;
     border-radius: 5px;
