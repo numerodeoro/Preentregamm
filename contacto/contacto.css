@@ -5,6 +5,8 @@
    ============================================================ */
 
 .form-details {
+    background-image: url('../img/solazo1.png');
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
