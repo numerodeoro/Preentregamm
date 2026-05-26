@@ -5,8 +5,9 @@
    ============================================================ */
 
 .form-details {
-    background-image: url('../img/solazo1.png');
+    background-image: linear-gradient(rgba(255,255,255,0.30), rgba(255,255,255,0.30)), url('../img/solazo1.png');
     background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +61,7 @@
 
 /* Botón de envío */
 .form-details form button {
-    background-color: #088178;
+    background-color: #f6a67bda;
     color: white;
     border: none;
     padding: 12px 25px;
@@ -72,7 +73,7 @@
 }
 
 .form-details form button:hover {
-    background-color: #066f66;
+    background-color: #faf3e0;
 }
 
 /* Contenedor de cada campo (input + mensaje de error) */
@@ -135,7 +136,7 @@
     display: block;
     font-size: 16px;
     font-weight: 600;
-    color: #000;
+    color: #084157;
 }
 
 
@@ -152,7 +153,7 @@
 
 .seccion-mapa h2 {
     font-size: 32px;
-    color: #222;
+    color: #084157;
     margin-bottom: 8px;
 }
 
