@@ -447,7 +447,7 @@ body {
     font-size: 14px;
     font-weight: 600;
     padding: 15px 30px;
-    color: #000;
+    color: white;
     background-color: #f6a67bda;
     border-radius: 4px;
     cursor: pointer;
@@ -457,10 +457,9 @@ body {
 }
 
 .banner button:hover {
-    background: #088178;
+    background: #faf3e0;
     color: #fff;
 }
-
 /* Responsive Banner */
 @media (max-width: 1200px) {
     .banner { padding: 0 60px; }
