@@ -229,6 +229,7 @@ body {
     background-color: #f6a67bda;
     color: white;
     margin-top: 20px;
+    margin-left: 120px;
     border: none;
     padding: 12px 25px;
     border-radius: 5px;
@@ -499,13 +500,13 @@ body {
     background-image: url("img/banner/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
-    background-color: #041e42;
+    background-color: #084157;
 }
 
 .newsletter h4 {
     font-size: 22px;
     font-weight: 700;
-    color: #fff;
+    color: #e8f8f8;
 }
 
 .newsletter p {
@@ -539,7 +540,7 @@ body {
     font-weight: 600;
     padding: 15px 30px;
     color: #fff;
-    background-color: #088178;
+    background-color: #f6a67bda;
     white-space: nowrap;
     border-radius: 0 4px 4px 0;
     cursor: pointer;
@@ -547,7 +548,10 @@ body {
     outline: none;
     transition: 0.2s;
 }
-
+.newsletter .form button:hover {
+    background-color: #faf3e0;
+    color: #fff;
+}
 /* Responsive Newsletter */
 @media (max-width: 1200px) {
     .newsletter { padding: 40px 60px; }
@@ -663,12 +667,12 @@ footer .copyright {
 
 .section-resenias {
     text-align: center;
-    background-color: #f8faf9;
+    background-color: #faf9f8;
 }
 
 .section-resenias h2 {
     font-size: 36px;
-    color: #222;
+    color: #084157;
 }
 
 .section-resenias > p {
@@ -686,8 +690,8 @@ footer .copyright {
 
 /* Card individual de reseña */
 .resenia-card {
-    background-color: #fff;
-    border: 1px solid #cce7d0;
+    background-color: #e8f8f8;
+    border: 1px solid #cce0e7;
     border-radius: 20px;
     padding: 30px 25px;
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
