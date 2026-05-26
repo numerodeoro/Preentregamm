@@ -80,6 +80,16 @@ body {
     top: 0;
     left: 0;
 }
+.header .logo-text {
+    width: 200px;
+    height: 50px;
+    justify-content: start;
+    align-items: start;
+    font-size: 22px;
+    font-weight: 700;       
+    margin-right: 10px; 
+    font-style: italic;
+}
 
 /* Lista de navegación horizontal */
 .navbar {
@@ -418,18 +428,18 @@ body {
 }
 
 .banner h4 {
-    color: #fff;
+    color: #e8f8f8;
     font-size: 16px;
 }
 
 .banner h2 {
-    color: #fff;
+    color: #e8f8f8;
     font-size: 30px;
     padding: 10px 0;
 }
 
 .banner span {
-    color: #ef3636;
+    color: #084157;
 }
 
 .banner button {
@@ -437,7 +447,7 @@ body {
     font-weight: 600;
     padding: 15px 30px;
     color: #000;
-    background-color: #fff;
+    background-color: #f6a67bda;
     border-radius: 4px;
     cursor: pointer;
     border: none;
