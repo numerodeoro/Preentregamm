@@ -179,9 +179,6 @@ body {
         padding: 15px 20px;
     }
     .header .logo-text {
-        display: none;
-    }
-    .header .logo-text-mobile {
         font-size: 18px;
         display: block;
     }
