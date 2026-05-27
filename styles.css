@@ -128,7 +128,23 @@ body {
 }
 
 /* Responsive: menú deslizante desde la derecha en pantallas pequeñas */
+@media (max-width: 925px) {
+    .header {
+        padding: 15px 20px;
+    }
+    .header .logo-text {
+        font-size: 18px;
+        display: block;
+    }
+}
 @media (max-width: 799px) {
+    .header {
+        padding: 15px 20px;
+    }
+    .header .logo-text {
+        font-size: 18px;
+        display: block;
+    }
     .navbar {
         display: flex;
         flex-direction: column;
