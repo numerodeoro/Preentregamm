@@ -1,6 +1,6 @@
 # 🌸 Flowers Cave
 
-Sitio web de una florerías online, desarrollado como proyecto de preentrega para bootcamp de desarrollo web.
+Sitio web de una florerías online, desarrollado como proyecto de entrega para bootcamp de desarrollo web.
 
 ## Descripción
 
@@ -10,16 +10,47 @@ Flowers Cave es una tienda online de flores y plantas con catálogo de productos
 
 - HTML5
 - CSS3
+- Javascript
 
 ## Estructura del proyecto
 
 ```
-Preentregamm/
-├── index.html
-├── styles.css
-├── contacto/
+PREENTREGAMM/
+├── estilos/
+│   ├── carrito.css
+│   ├── contacto.css
+│   └── tienda.css
 ├── img/
-└── la historia del proyecto (.docx y .pdf)
+│   ├── banner/
+│   ├── favicon_io/
+│   ├── pay/
+│   ├── people/
+│   ├── productos/
+│   ├── logo1.png
+│   ├── portada.jpg
+│   ├── solazo.png
+│   └── solazo1.png
+├── pages/
+│   ├── carrito.html
+│   ├── contacto.html
+│   └── tienda.html
+├── script/
+│   ├── data/
+│   │   └── productos.json
+│   ├── carrito.js
+│   ├── contactoStorage.js
+│   ├── contactoValidacion.js
+│   ├── index.js
+│   ├── script.js
+│   ├── tienda.js
+│   └── toast.js
+├── .gitignore
+├── enlaces.txt
+├── index.html
+├── la historia del proyecto.docx
+├── la historia del proyecto.pdf
+├── README.md
+└── styles.css
 ```
 
 ## Demo
