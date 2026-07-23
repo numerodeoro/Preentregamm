@@ -1,6 +1,7 @@
 
 
-fetch("https://fakestoreapi.com/products")
+//fetch("https://fakestoreapi.com/products")
+fetch("../script/data/productos.json")
     .then(response => response.json())
     .then(productos => {
         productosGlobales = productos;
