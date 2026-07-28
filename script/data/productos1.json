@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men's clothing",
+    "title": "Ramo de fresias",
+    "price": 30.000,
+    "description": "Hermoso ramo de fresias seleccionadas armado a mano, diseñado para llenar cualquier espacio de frescura y un aroma dulce e inconfundible. Compuesto por varitas llenas de pimpollos y flores abiertas en tonos vibrantes, combinadas con un toque de fino follaje verde que realza su belleza. Ideal para cumpleaños, aniversarios, agradecimientos o simplemente alegrar el día.",
+    "category": "ramos de flores",
     "image": "../img/productos/fresia.jpg",
     "rating": {
       "rate": 3.9,
@@ -13,14 +13,62 @@
   },
   {
     "id": 2,
-    "title": "Mens Casual Premium Slim Fit T-Shirts ",
-    "price": 22.3,
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-    "category": "men's clothing",
+    "title": "Ramo de margaritas",
+    "price": 30.000,
+    "description": "Ramo de margaritas naturales. Un bello detalle clásico, ideal para regalar ternura y alegrar cualquier espacio. Margaritas frescas de pétalos blancos radiantes y centro amarillo intenso, con tallos firmes y largos. Acompañado de verde suave (como eucalipto o ruscus) para dar volumen y contraste, envuelto en papel kraft rústico o papel de tono neutro, atado con un lazo de hilo de yute o cinta de tela",
+    "category": "ramos de flores",
     "image": "../img/productos/margaritas.jpg",
     "rating": {
       "rate": 4.1,
       "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Bulbos de peonias",
+    "price": 10.000,
+    "description": "Bulbos de peonias frescos, ideales para cultivar en jardines o macetas. Con raíces fuertes y brotes saludables, estos bulbos te permitirán disfrutar de flores vibrantes y fragantes en tu espacio exterior.",
+    "category": "bulbos",
+    "image": "../img/productos/peonia.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
+    }
+  },
+  {
+    "id": 4,
+    "title": "Planta de dedalera",
+    "price": 10.000,
+    "description": "Planta de dedalera de 1 metro aproximadamente, ideal para cultivar en jardines o macetas. Con hojas verdes y flores amarillas, esta planta prefiere los lugares de semisombra y los suelos húmedos pero bien drenados.",
+    "category": "plantas",
+    "image": "../img/productos/dedalera.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
+    }
+  },
+  {
+    "id": 5,
+    "title": "Planta de Rosas Rococó",
+    "price": 18.000,
+    "description": "Planta de rosas rococó fresca, ideal para cultivar en jardines o macetas. Con hojas verdes y flores de colores vibrantes, esta planta aporta belleza y fragancia a tu patio, jardín o balcón.",
+    "category": "plantas",
+    "image": "../img/productos/rococo.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
+    }
+  },
+  {
+    "id": 6,
+    "title": "Ramo de 6 rosas",
+    "price": 50.000,
+    "description": "Delicado ramo de rosas, ideal para alegrar y perfumar cualquier espacio. Pétalos aterciopelados y ligeramente curvos. Tallos largos, firmes y de color verde intenso, limpios de espinas en la parte baja. Hojas verdes, brillantes y con bordes dentados. Las cabezas de las rosas se agrupan de manera compacta o en una estructura redonda (tipo bouquet), donde los capullos quedan a una altura uniforme o ligeramente escalonada. Sostenido por una atadura de cinta delicada y protegido por papeles decorativos (como papel coreano o encaje).",
+    "category": "ramos de flores",
+    "image": "../img/productos/rosas.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
     }
   }
 ]
