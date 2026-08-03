@@ -12,7 +12,7 @@ fetch("../script/data/productos1.json")
                 <div class="producto-descripcion">
                     <span>${category}</span>
                     <h5>${title}</h5>
-                    <h4>$${price.toFixed(2)}</h4>
+                    <h4>$${price.toFixed(3)}</h4>
                 </div>
                 <a id="btn-ver-${id}" class="ver-descripcion">
                     Ver descripción
@@ -78,7 +78,7 @@ function abrirModal(producto) {
     document.getElementById('modalImagen').alt = producto.title;
     document.getElementById('modalTitulo').textContent = producto.title;
     document.getElementById('modalDescripcion').textContent = producto.description;
-    document.getElementById('modalPrecio').textContent = `$${producto.price.toFixed(2)}`;
+    document.getElementById('modalPrecio').textContent = `$${producto.price.toFixed(3)}`;
     document.getElementById('overlayModal').classList.add('visible');
 
 }

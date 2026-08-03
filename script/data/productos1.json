@@ -51,7 +51,7 @@
     "id": 5,
     "title": "Planta de Rosas Rococó",
     "price": 18.000,
-    "description": "Planta de rosas rococó fresca, ideal para cultivar en jardines o macetas. Con hojas verdes y flores de colores vibrantes, esta planta aporta belleza y fragancia a tu patio, jardín o balcón.",
+    "description": "Planta de rosas rococó fresca, para cultivar en jardines o macetas. Con hojas verdes y flores de colores vibrantes, esta planta aporta belleza y fragancia a tu patio, jardín o balcón.",
     "category": "plantas",
     "image": "../img/productos/rococo.png",
     "rating": {
@@ -66,6 +66,30 @@
     "description": "Delicado ramo de rosas, ideal para alegrar y perfumar cualquier espacio. Pétalos aterciopelados y ligeramente curvos. Tallos largos, firmes y de color verde intenso, limpios de espinas en la parte baja. Hojas verdes, brillantes y con bordes dentados. Las cabezas de las rosas se agrupan de manera compacta o en una estructura redonda (tipo bouquet), donde los capullos quedan a una altura uniforme o ligeramente escalonada. Sostenido por una atadura de cinta delicada y protegido por papeles decorativos (como papel coreano o encaje).",
     "category": "ramos de flores",
     "image": "../img/productos/rosas.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
+    }
+  },
+  {
+    "id": 7,
+    "title": "Bulbos de tulipanes",
+    "price": 10.000,
+    "description": "Bulbos de Tulipanes Premium. Calidad de Floración Garantizada ¡Transformá tu jardín, balcón o espacios interiores en un oasis de color! Ideales para plantar en temporadas frías y disfrutar de una floración espectacular durante el invierno tardío y la primavera. Ejemplares sanos, firmes y de gran calibre, garantizando flores grandes, vibrantes y bien formadas.Disponibles en una amplia paleta de colores que incluye rojo clásico, amarillo brillante, blanco puro, rosado y opciones bicolores.Presentación: Venta por unidad, en packs surtidos o listos para plantar.",
+    "category": "bulbos",
+    "image": "../img/productos/tulipanes.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
+    }
+  },
+  {
+    "id": 8,
+    "title": "Planta de violeta africana",
+    "price": 15.000,
+    "description": "Planta muy apreciado por sus flores vibrantes y su facilidad para decorar espacios reducidos. Hojas carnosas, redondeadas y cubiertas de una fina capa de pelitos aterciopelados. Pequeños ramos de flores delicadas y vistosas que pueden presentarse en tonos violeta, lila, rosa, fucsia, rojo, blanco o bicolor. Con buena iluminación, su floración es prácticamente continua durante todo el año.Ideal para mesas, repisas, escritorios o cualquier rincón luminoso de la casa. Generalmente se ofrece en macetas pequeñas (de 10 a 12 cm). Ideal para interiores, se adapta perfectamente a la temperatura del hogar y no requiere luz solar directa.",
+    "category": "plantas",
+    "image": "../img/productos/violetas_africanas.jpg",
     "rating": {
       "rate": 4.5,
       "count": 340
